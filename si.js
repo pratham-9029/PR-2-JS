@@ -20,4 +20,6 @@
 
         let netPrice = P + SI ;
 
+        
+        console.log("Rate of interest : " , R);
         console.log(netPrice);
